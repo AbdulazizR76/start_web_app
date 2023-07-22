@@ -52,7 +52,7 @@ class NameState extends State<AboutPage> {
                   ),
                   Icon(
                     FontAwesomeIcons.linkedin,
-                    color: Colors.white,
+                    color: Color.fromARGB(255, 202, 10, 10),
                   ),
                   SizedBox(
                     width: 5,
