@@ -82,7 +82,7 @@ class NameState extends State<HelpPage> {
       children: [
         GestureDetector(
           child: CustomBtn(
-            Colors.white,
+            Colors.red,
             'HOME',
           ),
           onTap: () {
